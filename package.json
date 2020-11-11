@@ -1,0 +1,11 @@
+{
+  "name": "short-live-docker-node",
+  "version": "1.0.0",
+  "description": "A docker definition to run a Node script and exit. Intended for short lived jobs on a schedule.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "russellc92",
+  "license": "ISC"
+}
